@@ -274,7 +274,7 @@
     </section>
 
     <!-- TESTIMONIAL section -->
-    <div class="container" style="margin-top: 7%" data-aos="fade-up">
+    <div class="container" style="margin-top: 7%">
       <h2 class="text-center mb-4">What Customers Say</h2>
       <div class="row">
         <div class="col-lg-4">
@@ -392,7 +392,7 @@
 
 
     <!--MISSION AND VALUES SECTION -->
-    <section class="mission-values-section text-center py-5" data-aos="fade-up">
+    <section class="mission-values-section text-center py-5">
       <div class="container">
         <h2 class="mb-4">Our Mission & Values</h2>
         <p class="mb-4">At Quivato, our mission is to empower businesses and organizations with innovative digital
