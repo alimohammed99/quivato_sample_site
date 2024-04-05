@@ -413,7 +413,7 @@
 
 
     <!-- CALL TO ACTION SECTION -->
-    <section class="cta-section text-center py-5 mt-4" data-aos="fade-up">
+    <section class="cta-section text-center py-5 mt-4">
       <div class="container">
         <h2 class="mb-4">Explore Our Services or Contact Us</h2>
         <p class="mb-4">Ready to take your digital presence to the next level? Explore our services or get in touch with
