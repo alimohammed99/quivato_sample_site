@@ -30,7 +30,7 @@ npm install
 ## Development Server
 Run the development server to view the Vue app locally:
 
-npm run serve
+npm run dev
 
 
 ## Build
