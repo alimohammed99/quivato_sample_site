@@ -1,0 +1,46 @@
+         WELCOME
+--------------------------
+
+Follow these steps to install the project.
+
+# Vue 3 App
+
+## Prerequisites
+- Node.js (v14.0.0 or later)
+- npm (v6.0.0 or later)
+- Git (optional)
+
+## Installation
+
+1. Clone the repository:
+
+git clone https://github.com/alimohammed99/quivato_sample_site.git
+
+
+2. Navigate to the project directory:
+
+cd quivato_sample_site
+
+
+3. Install dependencies:
+
+npm install
+
+
+## Development Server
+Run the development server to view the Vue app locally:
+
+npm run serve
+
+
+## Build
+Generate a production build of the app:
+
+npm run build
+
+
+
+
+
+
+
